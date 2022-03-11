@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TqJ8SKulj/+1i00+OKjJ8Yt8WwCXryKpRk/GLCgTxx9bjKFfzkXo53Sp3mebYtr+m87PXLqdJyOQ6qRZke9hvw==",
+  "dgSpecHash": "8hAWbLe3QjQcdKdS4nfbPYPkENzg1F0A9/b0DP+7RKs219VrtLQlQigkWfeb3cmM8EnPUBmbZvvi5028GvYo8g==",
   "success": true,
   "projectFilePath": "C:\\Users\\brhv\\source\\repos\\brhvucn\\PSU_Test_Blackbox\\BlackBox.API\\BlackBox.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\brhv\\.nuget\\packages\\ensure.that\\10.1.0\\ensure.that.10.1.0.nupkg.sha512",
     "C:\\Users\\brhv\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\brhv\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\brhv\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",

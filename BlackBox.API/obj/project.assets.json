@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "Ensure.That/10.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/Ensure.That.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Ensure.That.dll": {}
+        }
+      },
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
         "type": "package",
         "build": {
@@ -79,6 +88,25 @@
     }
   },
   "libraries": {
+    "Ensure.That/10.1.0": {
+      "sha512": "rzTMSs0lQnu0WsesvTjs/zDzqiZXb9r5dv+wFQcPg/iIZqXb5BzwpIWEwi8Q3HA0TS4ytRcY129aSek6IzuOmA==",
+      "type": "package",
+      "path": "ensure.that/10.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ensure.that.10.1.0.nupkg.sha512",
+        "ensure.that.nuspec",
+        "lib/net451/Ensure.That.dll",
+        "lib/net451/Ensure.That.xml",
+        "lib/netstandard1.1/Ensure.That.dll",
+        "lib/netstandard1.1/Ensure.That.xml",
+        "lib/netstandard2.0/Ensure.That.dll",
+        "lib/netstandard2.0/Ensure.That.xml",
+        "lib/netstandard2.1/Ensure.That.dll",
+        "lib/netstandard2.1/Ensure.That.xml"
+      ]
+    },
     "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
       "sha512": "LH4OE/76F6sOCslif7+Xh3fS/wUUrE5ryeXAMcoCnuwOQGT5Smw0p57IgDh/pHgHaGz/e+AmEQb7pRgb++wt0w==",
       "type": "package",
@@ -189,6 +217,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Ensure.That >= 10.1.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -238,6 +267,10 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
+          "Ensure.That": {
+            "target": "Package",
+            "version": "[10.1.0, )"
+          },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[5.6.3, )"
