@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TqJ8SKulj/+1i00+OKjJ8Yt8WwCXryKpRk/GLCgTxx9bjKFfzkXo53Sp3mebYtr+m87PXLqdJyOQ6qRZke9hvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brhv\\source\\repos\\brhvucn\\PSU_Test_Blackbox\\BlackBox.API\\BlackBox.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brhv\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\brhv\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\brhv\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\brhv\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\brhv\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\brhv\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
