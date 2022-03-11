@@ -41,6 +41,7 @@ namespace BlackBox.API.Controllers
         }
 
         [HttpDelete]
+        [Route("{id}")]
         public void DeleteCustomer(int id)
         {
             Ensure.That(id).IsGt(id);

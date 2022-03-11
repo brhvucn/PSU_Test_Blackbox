@@ -1,0 +1,12 @@
+C:\Users\brhv\source\repos\brhvucn\PSU_Test_Blackbox\BlackBox.API\obj\Docker\publish\BlackBox.API.exe
+C:\Users\brhv\source\repos\brhvucn\PSU_Test_Blackbox\BlackBox.API\obj\Docker\publish\appsettings.Development.json
+C:\Users\brhv\source\repos\brhvucn\PSU_Test_Blackbox\BlackBox.API\obj\Docker\publish\appsettings.json
+C:\Users\brhv\source\repos\brhvucn\PSU_Test_Blackbox\BlackBox.API\obj\Docker\publish\BlackBox.API.dll
+C:\Users\brhv\source\repos\brhvucn\PSU_Test_Blackbox\BlackBox.API\obj\Docker\publish\BlackBox.API.deps.json
+C:\Users\brhv\source\repos\brhvucn\PSU_Test_Blackbox\BlackBox.API\obj\Docker\publish\BlackBox.API.runtimeconfig.json
+C:\Users\brhv\source\repos\brhvucn\PSU_Test_Blackbox\BlackBox.API\obj\Docker\publish\BlackBox.API.pdb
+C:\Users\brhv\source\repos\brhvucn\PSU_Test_Blackbox\BlackBox.API\obj\Docker\publish\Ensure.That.dll
+C:\Users\brhv\source\repos\brhvucn\PSU_Test_Blackbox\BlackBox.API\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\Users\brhv\source\repos\brhvucn\PSU_Test_Blackbox\BlackBox.API\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\brhv\source\repos\brhvucn\PSU_Test_Blackbox\BlackBox.API\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\brhv\source\repos\brhvucn\PSU_Test_Blackbox\BlackBox.API\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
