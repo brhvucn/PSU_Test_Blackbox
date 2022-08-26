@@ -23,7 +23,7 @@ C:\Users\brhv\source\repos\brhvucn\PSU_Test_Blackbox\BlackBox.API\obj\Release\ne
 C:\Users\brhv\source\repos\brhvucn\PSU_Test_Blackbox\BlackBox.API\obj\Release\net5.0\BlackBox.API.RazorTargetAssemblyInfo.cache
 C:\Users\brhv\source\repos\brhvucn\PSU_Test_Blackbox\BlackBox.API\obj\Release\net5.0\BlackBox.API.csproj.CopyComplete
 C:\Users\brhv\source\repos\brhvucn\PSU_Test_Blackbox\BlackBox.API\obj\Release\net5.0\BlackBox.API.dll
-C:\Users\brhv\source\repos\brhvucn\PSU_Test_Blackbox\BlackBox.API\obj\Release\net5.0\refint\BlackBox.API.dll
 C:\Users\brhv\source\repos\brhvucn\PSU_Test_Blackbox\BlackBox.API\obj\Release\net5.0\BlackBox.API.pdb
 C:\Users\brhv\source\repos\brhvucn\PSU_Test_Blackbox\BlackBox.API\obj\Release\net5.0\BlackBox.API.genruntimeconfig.cache
 C:\Users\brhv\source\repos\brhvucn\PSU_Test_Blackbox\BlackBox.API\obj\Release\net5.0\ref\BlackBox.API.dll
+C:\Users\brhv\source\repos\brhvucn\PSU_Test_Blackbox\BlackBox.API\bin\Release\net5.0\ref\BlackBox.API.dll

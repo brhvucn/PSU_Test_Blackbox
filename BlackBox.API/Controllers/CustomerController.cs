@@ -3,6 +3,7 @@ using BlackBox.API.Model;
 using EnsureThat;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Collections.Generic;
 
 namespace BlackBox.API.Controllers
@@ -29,6 +30,15 @@ namespace BlackBox.API.Controllers
         public void CreateCustomer(Customer customer)
         {
             Ensure.That(customer.Name).IsNotNullOrEmpty();
+            Ensure.That(customer.MaxCredit).IsLte(5000);
+            Ensure.That(customer.MaxCredit).IsGt(0);
+            if(customer.MaxCredit > 65)
+            {
+                if (customer.Name.StartsWith("B"))
+                {
+                    throw new Exception("Bad idea");
+                }
+            }
             CustomerData.Instance.Create(customer);
         }
 
@@ -44,7 +54,7 @@ namespace BlackBox.API.Controllers
         [Route("{id}")]
         public void DeleteCustomer(int id)
         {
-            Ensure.That(id).IsGt(id);
+            Ensure.That(id).IsGt(0);
             CustomerData.Instance.Delete(id);
         }
     }
